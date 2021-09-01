@@ -1,5 +1,5 @@
 Supplementary materials for manuscript: 
-# The Effect of Popularity Bias on Group Recommendation Methods
+# Coupled or Decoupled Evaluation for Group Recommendation Methods?
 ### by Ladislav Peska and Ladislav Malecek
 
 This repository contains the evaluation source codes as well as additional resources for the paper "The Effect of Popularity Bias on Group Recommendation Methods", which was submitted to Perspectives workshop collocated with RecSys 2021.
